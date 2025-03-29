@@ -9,9 +9,9 @@ lp4_freq=
 lp4x_freq=
 lp5_freq=
 
-uart id=
+uart id=0
 uart iomux=
-uart baudrate=
+uart baudrate=115200
 
 sr_idle=
 pd_idle=
