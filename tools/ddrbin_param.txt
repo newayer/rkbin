@@ -10,7 +10,7 @@ lp4x_freq=
 lp5_freq=
 
 uart id=0
-uart iomux=
+uart iomux=0
 uart baudrate=115200
 
 sr_idle=
